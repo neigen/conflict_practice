@@ -1,3 +1,3 @@
 # favorite food
 
-ruby
+python
